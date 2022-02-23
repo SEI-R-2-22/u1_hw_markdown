@@ -22,6 +22,8 @@
 
 ### **_Getting Started_**
 
+#### This is where the instructions for getting started on a project will go.
+
 ---
 
 ### **_Screenshots_**
