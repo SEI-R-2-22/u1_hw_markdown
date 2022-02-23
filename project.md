@@ -41,3 +41,9 @@
 - [ ] Future Update 2
 - [x] Completed Update
 - [x] ~~Strikethrough~~ Items Also
+
+### **_Credits_**
+
+### **Houses**: [DuckDuckGo Search](http://www.duckduckgo.com)
+
+### **Knowledge and Knowhow**: [General Assembly](https://generalassemb.ly/) and [Github](https://github.com/SEI-R-2-22/u1_hw_markdown)
