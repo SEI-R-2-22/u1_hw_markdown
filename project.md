@@ -1,4 +1,4 @@
-# Proect Title
+# Project Title
 
 ## Date: 1/26/2021
 
