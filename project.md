@@ -41,9 +41,9 @@
 
 - [x] ~~close up cat~~
 - [x] ~~cube boi~~
-- [] Maybe a frog of somekind(?)
+- [ ] Maybe a frog of somekind(?)
 
 ### **_Credits:_**
 
-**Animal Pics:** [Google Images](https://www.google.com/imghp?hl=en&ogbl)
+**Animal Pics:** [Google Images](https://www.google.com/imghp?hl=en&ogbl) |
 **Markdown Guide:** [Github](https://github.com/nicklope/u1_hw_markdown)
