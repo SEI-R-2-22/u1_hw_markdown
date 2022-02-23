@@ -1,20 +1,22 @@
 # Project Title
 
-## date: 02/23/2022
+### Date: 02/23/2022
 
-### By: Huan Zeng
+---
+
+#### By: Huan Zeng
 
 ###### [README](README.md) | [Google](https://google.com) | [Youtube](https://youtube.com) | [Twitter](https://www.twitter.com)
 
 ---
 
-### Description
+### _*Description*_
 
 ##### This is a page for what i will learn in the next few months
 
 ---
 
-### Learning List
+### _*Technology Used*_
 
 - CSS
 - HTML
