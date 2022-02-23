@@ -24,6 +24,14 @@
 
 ---
 
+### **_Getting Started_**
+
+#### Coders who code, code. Coders who code'nt, cordn't.
+
+##### I was Josh Safdie's muse when he wrote Uhnkut Jhamz.
+
+---
+
 ### **_Screenshots_**
 
 #### Ruby, a chiyorkie
@@ -33,3 +41,25 @@
 #### Korben, a shih chi
 
 ![Imgur](https://i.imgur.com/NyvJleT.jpg)
+
+---
+
+### **_Future Updates_**
+
+#### - [ ] Future Update 1
+
+#### - [ ] Future Update 2
+
+#### - [x] Completed Update
+
+#### - [x] ~~Strikethrough~~ Items Also
+
+---
+
+### **_Credits_**
+
+#### Funny Images: [Imgur](imgur.com)
+
+#### Markdown Guide: [ia.net](ia.net)
+
+#### Markdown Cheatsheet: [Github](github.com)
