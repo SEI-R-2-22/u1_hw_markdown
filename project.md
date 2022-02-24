@@ -22,3 +22,11 @@
 ##### A Trello board was used to keep track of development progress and can be viewed [here](URL).
 ##### The project itself was deployed and can be viewed [here](URL).
 ***
+
+### ***Screenshots***
+
+#### Maserati
+![Maserati](https://www.bluwonder.com/wp-content/uploads/2020/04/Maserati-Gran-Cabrio-1.jpg)
+
+#### Mazda
+![Mazda](https://performancedrive.com.au/wp-content/uploads/2020/07/2020-Mazda3.jpg)
