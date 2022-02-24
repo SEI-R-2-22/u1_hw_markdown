@@ -48,8 +48,8 @@ The project itself was deployed and can be viewed [here.](https://www.github.com
 ***
 <a id="updates"></a>
 ### ***Future Updates***
-- [] Future Update 1
-- [] Future Update 2
+- [ ] Future Update 1
+- [ ] Future Update 2
 - [x] ~~Past Update 1~~
 
 ***
