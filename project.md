@@ -3,7 +3,8 @@
 ### By: Nell Flores
 
 [GitHub](https://github.com/nell-djmf) |
-[Codepen](https://codepen.io/djmflores)
+[Codepen](https://codepen.io/djmflores) |
+[More Cats](https://www.reddit.com/r/IllegallySmolCats/)
 ***
 ### *My Process*
 I started this homework assignment and learned the following
@@ -34,3 +35,5 @@ Cats: [cat #1](https://www.rover.com/blog/why-are-cats-so-cute/)
 Markdown Guide: [ia.net](https://ia.net/writer/support/general/markdown-guide)
 
 Reference: [homework](https://github.com/nell-djmf/u1_hw_markdown)
+
+Cat subs: [Reddit](https://www.reddit.com/r/Catsubs/wiki/index/)
