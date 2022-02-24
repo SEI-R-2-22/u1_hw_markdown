@@ -38,3 +38,12 @@
 - [x] Completed Update
 - [x] ~~Strikethrough~~ Items also
 ***
+
+### ***Credits***
+
+##### Funny Images: [DuckDuckGo Search](http://www.duckduckgo.com)
+
+##### Markdown Guide: [ia.net](https://ia.net/writer/support/general/markdown-guide)
+
+##### Markdown Cheatsheet: [GitHub](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+***
