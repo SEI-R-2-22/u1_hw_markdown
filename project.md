@@ -10,3 +10,10 @@
 * Apprentice level in HTML and CSS
   * Can build a fully working website in less than an hour
   * Familiar with updated 2022 version of HTML and CSS
+
+  ### ***Previous Experience***
+
+##### Studied Cambridge Nationals I.C.T at Shoeburyness High School 4/7/11 - 4/7/13
+##### Completed a number of contract jobs for start up comanpanies such as [Companies](URL).
+##### Worked on mmultiple websites as a freelancer 5/7/13 - 1/1/22[Examples](URL).5/7/13 - 1/1/22
+***
