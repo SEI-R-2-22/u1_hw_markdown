@@ -25,3 +25,20 @@
 ##### CSS
 ![CSS](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.abbreviations.com%2Fimages%2F40668_CSS.png&f=1&nofb=1)
 ***
+### ***Languages***
+
+- [ ] Python
+- [ ] Javascript
+- [x] HTML
+- [x] CSS
+***
+
+### ***Credits***
+
+##### HTML image: [DuckDuckGo Search](http://www.duckduckgo.com)
+##### CSS image: [DuckDuckGo Search](http://www.duckduckgo.com)
+
+##### Markdown Guide: [ia.net](https://ia.net/writer/support/general/markdown-guide)
+
+##### Markdown Cheatsheet: [GitHub](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+***
