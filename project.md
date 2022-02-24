@@ -23,7 +23,7 @@
 ![Gaming PC](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2Fsites%2F3%2F2016%2F10%2FDSC00459.jpg&f=1&nofb=1)
 
 - [ ] Learn New Tech
-- [ ] Buy better PC
+- [ ] Buy Better PC
 ***
 ### ***Credits***
 
