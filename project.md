@@ -37,8 +37,6 @@
 
 ![Image](https://imgur.com/w8Knjmd.jpg)
 
-![Image](smiley.png)
-
 ---
 
 **_Future Updates_**
@@ -53,4 +51,5 @@
 **_Credits_**
 
 Screenshots: [DuckDuckGo](https://duckduckgo.com/)
+
 Markdown Guide: [iA](https://ia.net/writer/support/general/markdown-guide)
