@@ -40,3 +40,5 @@
 #### Images: https://hub.suttons.co.uk/wp-content/uploads/2020/01/1_1-scaled.jpg | https://www.ahealthiermichigan.org/wp-content/uploads/2015/08/4701316770_aeb3a98b0f_o-1.jpg
 
 #### Markdown-guide: https://markdown-guide.readthedocs.io/en/latest/
+
+#### Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers
