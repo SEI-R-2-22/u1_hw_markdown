@@ -42,9 +42,9 @@ Using the Preview feature in VS Code, we can see what our markdown will look lik
 
 ### You Do (2 mins)
 Below the title, create *date* and *author* sections using different size text. Should look like this:
+
 <br>
 ![Title Heading](https://i.imgur.com/xqUr8re.png)
-
 ### Links
 You can also use markdown to add links.  Here's what that syntax looks like...
 
@@ -124,3 +124,9 @@ We learned a lot about Markdown language, but there's so much more it can do inc
 ## Resources
  - [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
  - [Markdown Guide](https://ia.net/writer/support/general/markdown-guide)
+***
+# Future Updates
+ [ ] Future Update 1
+[ ] Future Update 2
+[x] Completed Update
+ [x] ~~Strikethrough~~ Items Also
