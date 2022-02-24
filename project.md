@@ -4,7 +4,7 @@
 
 ### By: Alex Barbosa
 
-### [Website](https://alex-barbosa.com) ### [GitHub](https://github.com) ###[LinkedIn](https://linkedin.com)
+### [Website](https://alex-barbosa.com) | [GitHub](https://github.com) | [LinkedIn](https://linkedin.com)
 
 ***
 ***Description***
