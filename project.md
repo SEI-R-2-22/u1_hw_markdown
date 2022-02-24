@@ -30,3 +30,11 @@
 
 #### Mazda
 ![Mazda](https://performancedrive.com.au/wp-content/uploads/2020/07/2020-Mazda3.jpg)
+
+### ***Future Updates***
+
+- [ ] Future Update 1
+- [ ] Future Update 2
+- [x] Completed Update
+- [x] ~~Strikethrough~~ Items also
+***
