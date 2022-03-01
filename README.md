@@ -22,7 +22,7 @@ Markdown is a way to style text on the web. You control the display of the docum
 bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly,
 Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
-It is the primary language that ReadMe files are written in.  A ReadMe file usually contains a description of the project, or instructions on how to get started, or both! This lesson is a ReadMe file.  The ` .md ` at the end of the file stands for **M**ark**D**own!
+It is the primary language that ReadMe files are written in.  A ReadMe file usually contains a description of the project, or instructions on how to get started, or both! This lesson is a ReadMe file.  The ` .md ` at the end of the file stands for **M**ark**D**own!ls
   
 ### Creating Our Project ReadMe Template
 Markdown can be used to format text to any heading size, give them emphasis, placed into lists, add links, images, and much more.  Let's practice using markdown to set up our project ReadMe.
@@ -44,7 +44,7 @@ Using the Preview feature in VS Code, we can see what our markdown will look lik
 Below the title, create *date* and *author* sections using different size text. Should look like this:
 <br>
 ![Title Heading](https://i.imgur.com/xqUr8re.png)
-
+kvhttps://github.com/dietralb/u1_hw_markdown.githttps://github.com/dietralb/u1_hw_markdown.githttps://github.com/dietralb/u1_hw_markdown.githttps://github.com/dietralb/u1_hw_markdown.git
 ### Links
 You can also use markdown to add links.  Here's what that syntax looks like...
 
